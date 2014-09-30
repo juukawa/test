@@ -1,9 +1,0 @@
-diff a/新しいテキスト ドキュメント.txt b/新しいテキスト ドキュメント.txt	(rejected hunks)
-@@ -1,4 +1,7 @@
-  HENKOU
- -NEW BURANTI
-++<<<<<<< HEAD
-++eiwlfjaeoj
-++=======
- +NEW BURANTI
- +>>>>>>> child
